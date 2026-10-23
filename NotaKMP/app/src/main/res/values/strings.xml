@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NotaKMP</string>
+    <string name="empty_notes_message">No hay notas. ¡Crea la primera!</string>
+    <string name="add_note">Agregar nota</string>
+    <string name="hint_title">Título de la nota</string>
+    <string name="hint_body">Escribe tu nota aquí…</string>
+    <string name="attach_image">Adjuntar imagen</string>
+    <string name="save_note">Guardar nota</string>
+    <string name="delete_note">Eliminar nota</string>
+    <string name="selected_image">Imagen seleccionada</string>
+    <string name="note_image">Imagen de la nota</string>
+    <string name="title_editor">Nueva nota</string>
+    <string name="title_detail">Detalle</string>
+    <string name="error_empty_title">El título no puede estar vacío</string>
+    <string name="error_empty_body">El cuerpo no puede estar vacío</string>
+    <string name="note_saved">Nota guardada</string>
+    <string name="note_deleted">Nota eliminada</string>
+    <string name="confirm_delete">¿Eliminar esta nota?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm">Confirmar</string>
+</resources>
